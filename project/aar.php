@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-<title>Tours and Travels Website | Home </title>
+<title>Alloy Jacket Website | Home </title>
 </head>
 <body>
 <?php
